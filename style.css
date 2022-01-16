@@ -1,11 +1,10 @@
-.box{  height: 70vh;  width: 85%; border: 2px solid blue; margin: auto; margin-top: 10vh;}
-.in{ width: 98%; height: 32vh; border: 2px solid black; margin: auto;  margin-top: 10px;}
-.d1{ width: 48%; height: 30vh; border: 2px solid black; margin-left: 1%; margin-top: 5px;}
-.d2{width: 48%; height: 30vh; border: 2px solid black; margin-right: 1%; margin-top: 5px;}
-.fl{float: left;}
+.wrapper { height: 80vh; width: 85%; background-color: white; margin: auto; margin-top: 10vh;}
+.col4 { height: 80vh; width: 22.5%; background-color:white;}
+.fl {float: left; }
 .fr{ float: right;}
-.col{ height: 13vh; width: 48%; border: 2px solid pink; margin-top: 5px;  margin-left: 8px;}
-.col1{ height: 27.5vh; width: 46%; border: 2px solid black; margin-right: 8px; margin-top: 5px;}
-.box1{ height: 27.5vh; width: 46%; border: 2px solid black; margin-left: 8px; margin-top: 5px;}
-.box2{ height: 13vh; width: 48%; border: 2px solid pink; margin-top: 5px; margin-right: 8px;}
-.box3{width: 96%;    height: 7vh; border: 2px solid blue; margin-top: 11px; margin-left: 8px;}
+.new{ float: left; margin-left: 2%;}
+.box1{ height: 19.25vh; background-color: skyblue; }
+.br{ margin-top: 3%; }
+.min{ height: 19.25vh; width: 49% ; background-color: pink; }
+.min1{ height: 19.25vh; width: 49% ; background-color:red }
+.clr{ clear: both;}
