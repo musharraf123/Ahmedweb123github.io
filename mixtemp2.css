@@ -1,0 +1,10 @@
+.logo{ width: 100%; height: 10vh; background: rgb(99, 91, 91); margin-bottom: 1%;}
+.navi{width: 100%; height: 6vh; background-color: wheat; margin-bottom: 1%;}
+.bann{width: 100%; height: 18vh; background-color: turquoise ; margin-bottom: 1%;}
+.wrapper{ width: 100%; height: 50vh; background-color: tomato;}
+.left{ width: 30%; height: 50vh; background-color: turquoise; margin-right: 1%;}
+.right{width: 68%; height: 50vh; background-color: violet; }
+.fl{ float: left;}
+.fr{float: right;}
+.foot{ width: 100%; height: 10vh; background: rgb(99, 91, 91); margin-top: 1%;}
+.clr{clear: both;}
