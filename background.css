@@ -1,0 +1,12 @@
+*{margin: 0; box-sizing: border-box;}
+.banner{ width: 90%; height: 90vh; border: 2px solid black; margin: auto; margin: 10vh;
+    background-image: url(https://images.pexels.com/photos/38136/pexels-photo-38136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: 90% 90vh;}
+.info h1{ font-size: 4rem; color:greenyellow; text-align: center; padding-top: 10vh;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    text-shadow:2px 2px black ;} 
+.info{ width: 100%;
+height: 90vh;
+background-color: rgba(128, 128, 128,0.3);
+border-left:50px solid rgba(1, 10, 1, 0.4);}
+.info p{ font-size: 2rem; text-align: justify; color: greenyellow; text-shadow: 2px 2px 2px black; padding: 0% 5%; }
